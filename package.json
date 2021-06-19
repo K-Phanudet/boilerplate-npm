@@ -12,6 +12,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "FlyInSpace",
-	"description": "Purpose of this project is learning about package.json file "
+	"description": "Purpose of this project is learning about package.json file ",
+	"keywords": ["package.json","learning"]
 	
 }
