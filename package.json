@@ -13,6 +13,7 @@
 	},
 	"author": "FlyInSpace",
 	"description": "Purpose of this project is learning about package.json file ",
-	"keywords": ["package.json","learning","freecodecamp"]
+	"keywords": ["package.json","learning","freecodecamp"],
+	"license": "MIT"
 	
 }
